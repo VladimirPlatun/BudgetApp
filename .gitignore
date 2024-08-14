@@ -1,0 +1,43 @@
+# Build Folders (you can keep bin if you'd like, to commit dlls, pdbs, etc.)
+bin/
+obj/
+
+# Xamarin/Microsoft Build generated folders
+## User-specific files
+*.rsuser
+*.userprefs
+*.user
+
+# Mono auto generated files
+mono_crash.*
+
+# OS generated files
+.DS_Store
+*.swp
+*.swo
+ehthumbs.db
+Thumbs.db
+
+# Xamarin iOS
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xamarin Android
+*.apk
+*.ap_
+*.dex
+*.apk.keystore
+
+# Xamarin UWP
+AppPackages/
+BundleArtifacts/
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Others
+*.log
